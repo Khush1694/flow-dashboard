@@ -53,7 +53,7 @@ class UserStore {
 
         } finally {
             if (this.user) {
-                console.log("Successfully loaded user " + this.user.email);
+                console.log("Successfully loaded user updated the line" + this.user.email);
             }
         }
     }
