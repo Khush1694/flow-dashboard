@@ -20,7 +20,7 @@ class UserStore {
     storeUser(user) {
         this.user = user;
         this.error = null;
-        console.log("Stored user "+user.email);
+        console.log("Stored user for the given user email address"+user.email);
         // api.updateToken(user.token);
         localStorage.setItem(AppConstants.USER_STORAGE_KEY, JSON.stringify(user));
     }
