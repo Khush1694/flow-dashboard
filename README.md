@@ -7,6 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://jeremy.mit-license.org)
 [![Gitter chat](https://badges.gitter.im/onejgordon/flow-dashboard.png)](https://gitter.im/flow-dashboard)
 
+
 ## Purpose
 
 Flow is a habit tracker and personal data analytics app that lets you keep focus on what matters. Flow owns none of your data. That's yours.
